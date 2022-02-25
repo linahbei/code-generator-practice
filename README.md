@@ -31,7 +31,7 @@ ___
 #### 下載範例專案
 
 ```shell
-$ git clone <還不知道要放哪>
+$ git clone git@github.com:linahbei/method-stub-practice.git
 $ cd method-stub-practice/python
 ```
 
