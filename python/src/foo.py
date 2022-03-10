@@ -32,7 +32,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--out', dest='out', required=False, type=str,
                         metavar='filename(.py)', default=None,
-                        help='Export method stub to a source code file.'
+                        help='Export example code.'
                         )
     args = parser.parse_args()
     plain = inspect.getsource(FooUsageExample)
